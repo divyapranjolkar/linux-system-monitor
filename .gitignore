@@ -1,0 +1,51 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Backups
+backups/
+
+# Generated reports
+reports/
+
+# Linux learning exercises
+function_practice.sh
+hello.sh
+interactive_monitor.sh
+log_lab.sh
+loop_practice.sh
+network_lab.sh
+permission_test.txt
+permissions-lab/
+process_lab.sh
+remote-test.txt
+system_info.sh
+system_monitor.sh
+while_practice.sh
+
+# Old copies
+main_from_server.py
+
+# Secrets
+.env
+.env.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
